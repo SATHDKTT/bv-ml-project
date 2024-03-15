@@ -1,0 +1,13 @@
+ipykernel
+BeautifulSoup4
+pandas
+tqdm
+pillow
+requests
+opencv-python
+numpy
+scikit-learn
+scikit-image
+tensorflow==2.10.0
+matplotlib
+tueplots
