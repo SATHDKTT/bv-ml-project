@@ -9,7 +9,7 @@ GitHub repository for the final project of the 'Machine Learning and Image Proce
 The project report is available [here](doc/Gemstone_Classifier.pdf)
 
 ## Overview
-This repository contains the research work conducted to develop a gemstone classifier using machine learning techniques. The aim of this project is to accurately classify different types of gemstones based on their visual features, aiding in the identification process for geologists and gemologists.
+This repository contains the research work conducted to develop a gemstone classifier using machine learning techniques. The aim of this project is to accurately classify different types of gemstones based on their visual features, aiding in the identification process.
 
 ## Objectives
  - Scrape gemstone images from online sources to create a diverse and representative dataset.
